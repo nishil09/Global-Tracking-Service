@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Global Tracking Service</string>
+    <string name="hello_world">Rajan</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Global Tracking System</string>
+    <string name="zoom">zoom</string>
+	<string name="menu_save">Rajan</string>
+     <string name="str_action1">Action1</string>
+    <string name="str_action2">Action2</string>
+    <string name="str_action3">Action3</string>
+    <string name="button">button</string>
+    <string name="courses">rrrrrrrrrrr</string>
+    <string name="scores">rrrrrrrrrrr</string>
+    <string name="handicap">rrrrrrrrrrrrrrrrrrrrr</string>
+    <string name="MainActivity">.MainActivity</string>
+</resources>
